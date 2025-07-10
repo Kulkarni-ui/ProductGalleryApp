@@ -59,6 +59,8 @@ public/
     ├── self-watering-pot.jpg
     └── mini-projector.jpg
 ---
+---
 📄 License
 MIT License
+---
 
