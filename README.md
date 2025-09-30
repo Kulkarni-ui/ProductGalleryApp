@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f88b3440-5c6d-43bd-b4dc-b1935c4e1aca)# 🛍️ React Product Gallery
+![image](https://github.com/user-attachments/assets/f88b3440-5c6d-43bd-b4dc-b1935c4e1aca) 🛍️ React Product Gallery
 
 A simple and interactive **React-based Product Gallery** that allows users to:
 
